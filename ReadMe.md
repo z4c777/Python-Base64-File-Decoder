@@ -1,6 +1,6 @@
 # Python-Base64-File-Decoder
 
-Decrypt a file that's base64 encoded multiple times
+Decrypt a file that contains a base64 encoded text multiple times. By default the script will decode it 5 times.
 
 Syntax: b64_decoder.py [FILE]
 
